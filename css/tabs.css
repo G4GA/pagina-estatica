@@ -13,7 +13,7 @@
     height: auto;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
-    box-sizing:border-box;		
+    box-sizing:border-box;
 }
 .nicescroll-rails {
 	width: 12px !important;
@@ -24,8 +24,8 @@
 }
 
 .nicescroll-cursors {
-	
-} 
+
+}
 
 
 /*
@@ -70,11 +70,11 @@
 
 .VerticalTab.tabs_ver_6 .resp-tabs-list .resp-tab-active {
 	margin: 10px 0px!important;
-	color: #f78b26;
+	color: #b4151c;
 	border: none!important;
 }
 .VerticalTab.tabs_ver_6 .resp-tabs-list li:hover {
-	color: #f78b26;
+	color: #b4151c;
     -moz-transition: all 0.2s linear;
     -o-transition: all 0.2s linear;
     -webkit-transition: all 0.2s linear;
@@ -135,7 +135,7 @@ h2.resp-tab-active {
 	margin-bottom: 0px;
 	border: none!important;
 	padding: 30px 15px!important;
-	background: #f78b26!important;
+	background: #b4151c!important;
 }
 h2.resp-accordion:first-child {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important;

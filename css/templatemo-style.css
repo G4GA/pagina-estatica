@@ -22,6 +22,10 @@ body {
     position: relative;
 }
 
+#fender_logo {
+  height: 130px;
+  padding-left: 35px;
+}
 /*
 ===============================================
 --------------- 2. PRELOADER ------------------
@@ -152,7 +156,7 @@ body {
 
   .home-container .left-content h2 em {
     font-style: normal;
-    color: #f78b26;
+    color: #b4151c;
   }
 
   .home-container .left-content p {
@@ -184,8 +188,8 @@ body {
     -o-transition: all 0.2s linear;
     -webkit-transition: all 0.2s linear;
     transition: all 0.2s linear;
-    border-color: #f78b26;
-    color: #f78b26;
+    border-color: #b4151c;
+    color: #b4151c;
     text-decoration: none;
   }
 
@@ -224,7 +228,7 @@ body {
 
 .about-container h2 em {
   font-style: normal;
-  color: #f78b26;
+  color: #b4151c;
 }
 
 .about-container .under-line {
@@ -337,7 +341,7 @@ body {
   display: inline-block;
   padding: 15px 30px;
   color: #fff;
-  background-color: #f78b26;
+  background-color: #b4151c;
 }
 
 .contact-form input {
@@ -392,13 +396,13 @@ body {
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  border-color: #f78b26;
-  color: #f78b26;
+  border-color: #b4151c;
+  color: #b4151c;
   text-decoration: none;
 }
 
 .more-info {
-  padding: 60px 30px 0px 0px;
+  padding: 60px 30px 0px 30px;
 }
 
 .more-info p em {
@@ -427,7 +431,7 @@ footer p {
 
 footer p em {
   font-style: normal;
-  color: #f78b26;
+  color: #b4151c;
 }
 
 
@@ -963,7 +967,7 @@ body.lb-disable-scrolling {
 .owl-theme .owl-dots .active span {
   width: 10px;
   height: 10px;
-  background: #f78b26;
+  background: #b4151c;
   display: block;
   -webkit-backface-visibility: visible;
   transition: opacity .2s ease;
